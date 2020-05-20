@@ -1,0 +1,3 @@
+Python program to exchange values of two strings
+
+x=10 y=18 x = x ^ y; y = x ^ y; x = x ^ y; print ("After Swapping: x = ", x, " y =", y)
